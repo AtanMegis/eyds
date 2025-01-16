@@ -1,1 +1,1 @@
-{"root":["./vite.config.ts","./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/pages/home.tsx"],"version":"5.6.3"}
+{"root":["./vite.config.ts","./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/button.tsx","./src/components/card.tsx","./src/components/product.tsx","./src/components/swiper.tsx","./src/helper/tailwindindicator.tsx","./src/helper/product.ts","./src/helper/solution.ts","./src/pages/coba.tsx","./src/pages/home copy.tsx","./src/pages/home.tsx"],"version":"5.6.3"}
