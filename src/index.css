@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "poppins", sans-serif;
+	overflow-x: hidden ;
+}
+
+.swiper-pagination-bullet-active {
+	background-color: #F0833B !important;
+	opacity: 1;
+}
+
+.swiper-pagination-bullet {
+
+	height: 14px !important;
+	width: 14px !important;
+	opacity: 0.5 ;
+	background-color: #F0833B !important;
+}
+
+.swiper-backface-hidden .swiper-slide {
+	overflow: hidden !important;
+}
