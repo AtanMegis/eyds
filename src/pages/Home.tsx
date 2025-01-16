@@ -101,7 +101,7 @@ export default function Home() {
                     </h1>
                 </div> */}
             <section className="w-dvw h-auto sm:min-h-dvh flex flex-col justify-center items-center relative bg-solution bg-cover bg-center bg-no-repeat mix-blend-color-burn">
-                <div className="relative max-w-full  h-full w-full">
+                <div className="relative max-w-full  h-full w-full sm:max-h-dvh">
                     <video
                         ref={videoRef}
                         className=" w-full object-scale-down max-w-full min-w-full h-full sm:max-w-none border-none "
