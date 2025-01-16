@@ -116,7 +116,7 @@ export default function Home() {
 
                 <button
                     onClick={toggleMute}
-                    className="absolute bottom-7 right-7 sm:bottom-14 sm:right-14 bg-white text-solidOrange px-3 py-2 sm:px-6 sm:py-4 rounded opacity-50 hover:opacity-100 cursor-pointer isolate"
+                    className="absolute bottom-7 right-7 sm:bottom-14 sm:right-14 bg-white text-solidOrange p-3 sm:p-6   opacity-50 hover:opacity-100 cursor-pointer isolate rounded-full"
                 >
                     {isMuted ? (
                         <FaVolumeMute className="size-3 sm:size-6" />
